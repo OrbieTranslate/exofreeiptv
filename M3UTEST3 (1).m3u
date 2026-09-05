@@ -2101,6 +2101,11 @@ https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="aisplay.th" tvg-name="TRUE Sport 3" tvg-logo="https://www.matichon.co.th/wp-content/uploads/2025/12/punsong6-8.jpg" group-title="ช่องSport", Goft
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/813037.ts
+
 
 #-----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3172,8 +3177,8 @@ http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="🎉ช่องบันเทิง" tvg-logo="https://i.pinimg.com/474x/34/b6/de/34b6de171aed8c92e35311be7e81ee8d.jpg",Movies3
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="🎉ช่องบันเทิง" tvg-logo="https://i.pinimg.com/474x/34/b6/de/34b6de171aed8c92e35311be7e81ee8d.jpg",Series1
-http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="🎉ช่องบันเทิง" tvg-logo="https://i.pinimg.com/474x/34/b6/de/34b6de171aed8c92e35311be7e81ee8d.jpg",ขแมร์
+http://nordicone.tv:2095//live/67066804/507673455742/813039.ts
 
 #EXTINF:-1 group-title="🎉ช่องบันเทิง" tvg-logo="https://i.pinimg.com/474x/34/b6/de/34b6de171aed8c92e35311be7e81ee8d.jpg",Series2
 http://49.0.64.96:8007/SERIES
@@ -3196,16 +3201,6 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Marvel%20Iron%20Man.png" group-title="🎉ช่องบันเทิง",Marvel Iron Man SE
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947668&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Marvel%20Spider%20Man.png" group-title="🎉ช่องบันเทิง",Marvel Spider Man SE
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947669&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Netflix.png" group-title="🎉ช่องบันเทิง", Netflix Film 1 SE
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947677&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Netflix.png" group-title="🎉ช่องบันเทิง", Netflix Film 2 SE
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947678&extension=ts
 
 
 
