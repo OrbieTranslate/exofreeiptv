@@ -2038,6 +2038,11 @@ https://edge-1.m-fixer.net:8092/stream/inw/truesport1/master.m3u8
 #EXTVLCOPT:http-referrer=https://m-fixer.net
 https://edge-1.m-fixer.net:8092/stream/inw/truesport2/master.m3u8
 
+#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
+
 
 ### ---------------- TRUE Sport 3
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 3 HD
@@ -2058,7 +2063,7 @@ https://edge-1.m-fixer.net:8092/stream/inw/truesport5/master.m3u8
 https://edge-1.m-fixer.net:8092/stream/inw/truesport7/master.m3u8
 
 
-#EXTINF:-1 tvg-id="bein.th" tvg-name="TRUE Sport 1" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport
+#EXTINF:-1 tvg-id="bein.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 7 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
@@ -2074,13 +2079,21 @@ https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bein3.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport2
+#EXTINF:-1 tvg-id="bein3.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ช่องSport",monomax-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
 
 
 #-----------------------------------------------------------------------------------------------------------------------------------------
