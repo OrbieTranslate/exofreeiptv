@@ -2990,11 +2990,16 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=559158&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1054&extension=ts
 
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (dns โหลดช้า)   
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO TH (dns โหลดช้า)   
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 
+
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (Testๆ)   
+#EXTVLCOPT:http-referrer=https://github.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/hbo.m3u8
 
 
 
