@@ -2280,10 +2280,7 @@ http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171341
 # -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
 # --- MONOMAX 1 ---
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="วอเล่บอล",monomax สด ชาย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://ealivefotex.com/resteam15/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="วอเล่บอล",monomax สด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2972,47 +2969,34 @@ http://boss.ddns.net:80/play/live.php?mac=10:27:BE:2F:4D:AF&stream=83258&extensi
 
 
 #------------------------------------------------------------------------------------------------------------------------------#
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="http://tvsmagazine.com/images/channels/lrg_002.jpg",Trueseries (stream)
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://edge-1.m-fixer.net:8092/stream/inw/trueseries/master.m3u8
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="http://tvsmagazine.com/images/channels/lrg_006.jpg",Truefilmasia (stream)
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://edge-1.m-fixer.net:8092/stream/inw/truefilmasia/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nordicone.tv/
 http://nordicone.tv:2095//live/67066804/507673455742/115802.ts
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO  (stream)
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO  EXYU (stream)
+#EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://edge-1.m-fixer.net:8092/stream/ais/hbohd/master.m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1055&extension=ts
 
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png",HBO Hit  (stream)
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO 2 EXYU (stream)
+#EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://edge-2.m-fixer.net:8092/stream/ais/hbohits/master.m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=559158&extension=ts
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://medianet.mv/media/channel/260x0-icon.png",RockAction  (stream)
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png",CINEMAX 1 EXYU (stream)
+#EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://edge-2.m-fixer.net:8092/stream/ais/rockaction/master.m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1054&extension=ts
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://www.kromerinvestments.com/wp-content/uploads/DirecTV-HBO-Cinemax-Transparent.png",CINEMAX  (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://www.kromerinvestments.com/wp-content/uploads/DirecTV-HBO-Cinemax-Transparent.png",Monoplus (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
-https://cco-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
-
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (dns โหลดช้า)   
+#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 
 
 
