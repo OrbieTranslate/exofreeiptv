@@ -2032,6 +2032,15 @@ https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="thai-league" tvg-name="Sport1" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย", thai-league
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/inw/byd-thai-league-1/master.m3u8
+
+#EXTINF:-1 tvg-id="thaileague" tvg-name=" Sport2" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย", thai-league2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/inw/byd-thai-league-2/master.m3u8
 
 
 
