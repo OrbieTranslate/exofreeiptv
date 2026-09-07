@@ -2022,15 +2022,17 @@
 
 
 
-#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย",บอลไทย1
+#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย",TSP2 บอลไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย",บอลไทย2
+#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://www.flyordie.com/image/game/catalog-icons/snooker.jpg" group-title="บอลไทย",TSP3 สนุกเกอร์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 1 HD
