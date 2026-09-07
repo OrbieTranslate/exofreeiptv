@@ -2043,16 +2043,15 @@ https://edge-1.m-fixer.net:8092/stream/inw/byd-thai-league-1/master.m3u8
 https://edge-1.m-fixer.net:8092/stream/inw/byd-thai-league-2/master.m3u8
 
 
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://45.139.122.199/
+http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115531.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130743
-
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115531.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -3072,6 +3071,33 @@ https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://181.224.255.210/
 http://181.224.255.210:8001/play/a0qz/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png" group-title="ทีวีดิจิตอล",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png" group-title="ทีวีดิจิตอล",Asian-Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="ทีวีดิจิตอล",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" group-title="ทีวีดิจิตอล",MONO29 PLUS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #-------------------------------------------สารคดี-------------------------------------------------------------------------------------------#
 
