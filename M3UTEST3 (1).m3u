@@ -2998,49 +2998,14 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1054&extensio
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (Testๆ)   
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.png", Series (Testๆ)   
 #EXTVLCOPT:http-referrer=https://github.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/hbo.m3u8
 
 
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (Cnd2)   
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/hbo/playlist.m3u8       
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/3b0fc88271d0.png",HBO Family (Cnd2)
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/hbo-family/playlist.m3u8   
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Cnd2)         
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/playlist.m3u8        
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://img2.pic.in.th/HBO_Signature.svg.png",HBO Signature (Cnd2)         
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/hbo-signature/playlist.m3u8 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://6395online.com:8443/logotv/movie/expreme.jpg",ROCK Action (Cnd2)        
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/rock-action/playlist.m3u8        
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://6395online.com:8443/logotv/movie/rocken.jpg",ROCK ENTERTAINMENT (Cnd2)        
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/rock-entertainment/playlist.m3u8 
-#EXTINF:-1 tvg-id="TN.us" group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/3976fd133edf.webp", truethaifilm (Cnd2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/tamfan46/Entertainment/refs/heads/main/truethaifilm1.m3u8
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/356c688ee541.webp",True Film 1 (Cnd2)          
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/playlist.m3u8    
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/ecd875e7defa.webp",True Film 2 (Cnd2)        
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8
+
 
 
 
@@ -3062,12 +3027,8 @@ https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="🎬ดูหนัง",HBO HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://iptv.tawatchai250958.workers.dev/?url=http://tiea1.3bbddns.com:28470/4.m3u8
+http://tiea1.3bbddns.com:28470/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png" group-title="🎬ดูหนัง",HBO SIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-https://movieproxy.tawatchai250958.workers.dev/watch?id=aishbosignature
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="🎬ดูหนัง",HBO Flimaiy (skycos3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
