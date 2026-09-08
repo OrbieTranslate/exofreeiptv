@@ -2056,14 +2056,14 @@ http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130743
 #EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115533.m3u8
+https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8
 
 
 ### ---------------- TRUE Sport 3
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115533.m3u8
+https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8
 
 ### ---------------- TRUE Sport 5
 #EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 5 HD
@@ -2075,7 +2075,7 @@ https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115799.m3u8
+https://hls.iptv-th.workers.dev/live/1139/playlist.m3u8
 
 
 
