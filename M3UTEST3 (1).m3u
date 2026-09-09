@@ -2442,8 +2442,8 @@ https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP7.m3u
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/go2hjy1736150900.png" group-title="⚽SPORT1", True Premier Football 3 ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/truevisions/true-premier-football-3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w8p0km1736150912.png" group-title="⚽SPORT1", True Premier Football 4 ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
