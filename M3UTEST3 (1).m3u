@@ -3021,10 +3021,7 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/983.ts
 #------------------------------------------------------------------------------------------------------------------------------#
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://nordicone.tv/
-http://nordicone.tv:2095//live/67066804/507673455742/115802.ts
+
 
 #EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO  EXYU (stream)
 #EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
@@ -3096,10 +3093,13 @@ https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/live/
-https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwarpdooball.net%2F/
+https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmono29plus%2Fplaylist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115802.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="🎬ดูหนัง",HBO+ (index)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
