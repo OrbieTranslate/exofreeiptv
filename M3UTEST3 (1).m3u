@@ -2031,22 +2031,22 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894987&ex
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894988&extension=ts
 
 
-#EXTIN#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",VIAPLAY TV HD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",VIAPLAY TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1152824&extension=ts
 
-#EXTIN#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",VIAPLAY TV+ HD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",VIAPLAY TV+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1157577&extension=ts
 
-#EXTIN#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",LFC HEVC FHD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",LFC HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1312812&extension=ts
 
-#EXTIN#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",LFC HEVC FHD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",MUTV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1312814&extension=ts
