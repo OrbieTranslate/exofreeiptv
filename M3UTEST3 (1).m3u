@@ -2048,8 +2048,10 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130741
 #EXTVLCOPT:http-referrer=http://fastopen.live/
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130742
 
-
-
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/05/avc-kv.png" group-title="ช่องไทย",MONOMAX1 testๆๆๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/mo1.m3u8
 
 
 
