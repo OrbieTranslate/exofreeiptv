@@ -1998,8 +1998,45 @@
 
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT1.m3u8
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT2.m3u8
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT3.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT4.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT5.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT6.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT7.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/IPTV59/M/refs/heads/main/BT8.m3u8
 
 
 
@@ -3023,7 +3060,10 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/983.ts
 #------------------------------------------------------------------------------------------------------------------------------#
 
 
-
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO TH (dns โหลดช้า)   
+#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 
 #EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO  EXYU (stream)
 #EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
@@ -3042,17 +3082,18 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=559158&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1054&extension=ts
 
 
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO TH (dns โหลดช้า)   
-#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO MAX (stream)
+#EXTVLCOPT:http-referrer=http://185.80.197.65/
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275549&extension=ts
 
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO Asin (stream)
+#EXTVLCOPT:http-referrer=http://185.80.197.65/
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275547&extension=ts
 
-
-
-
-
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO NOW (stream)
+#EXTVLCOPT:http-referrer=http://185.80.197.65/
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275553&extension=ts
 
 
 
