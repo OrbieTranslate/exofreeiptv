@@ -3408,6 +3408,48 @@ https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8
 
 
 
+#-----------------------------------------------------------------------------------------------------------------------------------#
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/03/bbc-news-logo-new.jpg" group-title="ข่าว",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/CNA.png" group-title="ข่าว",CNA NEWS
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/03/bbc-news-logo-new.jpg" group-title="ข่าว",BBC WORLD
+http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png" group-title="ข่าว",เกาหลี Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="ข่าว",NHK world
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2025/08/HEADER_BANNER_FOX_WEATHER_UPDATE.png" group-title="ข่าว",fox weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/485/048/000/ojil57uuk1bVedlgGr3-o.jpg" group-title="ข่าว",BBSTV เกาหลี
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bombora.tv/wp-content/uploads/2024/02/cnbc4159-copy.png" group-title="ข่าว",CNBC_WORLD
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+
+#EXTINF:-1 tvg-logo="https://singhanakorn.songkhla.police.go.th/wp-content/uploads/2023/04/POLICETV_280-003_00149.jpg" group-title="ข่าว",Police Tv
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/chunklist_w1741344544.m3u8
+
+
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://themomentum.co/wp-content/uploads/2025/08/Web_Wide-Screen-PA-2AUG-2560x1440.jpg",ขแมร์ ข่าวๆ
+http://nordicone.tv:2095//live/67066804/507673455742/813039.ts
+
+#----------------------------------------------------------------------------------------------------------------------------#
+
+
+
 
 #----------------------------------------------------------------------------------------------------------------------------#
 
