@@ -2001,7 +2001,30 @@
 
 
 
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1",TRUE Sport 1 ดูได้ช่วงๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp1.m3u8
 
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 ดูได้ช่วงๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp2.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 ดูได้ช่วงๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp3.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 5 ดูได้ช่วงๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp5.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1",TRUE Sport 7 ดูได้ช่วงๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp7.m3u8
 
 
 
@@ -3294,10 +3317,10 @@ http://49.0.64.96:8007/HIFIGHT
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/14/59/66/360_F_414596658_9uQn8kPcdCnFhOY1OpTiHY6qJPxK6Ns5.jpg" group-title="🎉ช่องบันเทิง",TOPFIGHT
 http://49.0.64.96:8007/TOPFIGHT
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/20/1/arirang-logo-png_seeklogo-208999.png" group-title="🎉ช่องบันเทิง",เกาหลี Arirang
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/815/090/000/mmycxeughBAu7KFlrdA-o.png" group-title="🎉ช่องบันเทิง",เกาหลี Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/141564498/s718/mr-bean.jpg" group-title="🎉ช่องบันเทิง",Mr-bean
+#EXTINF:-1 tvg-logo="https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/171/029/171029973_m6em48.jpg" group-title="🎉ช่องบันเทิง",Mr-bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
