@@ -1973,89 +1973,153 @@
 
 
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",TNT SPORTS 1 HD [UK]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORTS 1 HD [UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894977&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",TNT SPORTS 2 HD [UK]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORTS 2 HD [UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894978&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",TNT SPORTS 3 HD [UK]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORTS 3 HD [UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894979&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",TNT SPORTS 4 HD [UK]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORTS 4 HD [UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894980&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",TNT SPORTS 5 HD [UK]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORTS 5 HD [UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894981&extension=ts
 
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",BEIN SPORTS 1 HD [AR]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://logowik.com/content/uploads/images/t_167_bein_sports.jpg" group-title="ต่างประเทศ",BEIN SPORTS 1 HD [AR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894995&extension=ts
 
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",BEIN SPORTS 2 HD [AR]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://logowik.com/content/uploads/images/t_167_bein_sports.jpg" group-title="ต่างประเทศ",BEIN SPORTS 2 HD [AR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894996&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",BEIN SPORTS 3 HD [AR]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://logowik.com/content/uploads/images/t_167_bein_sports.jpg" group-title="ต่างประเทศ",BEIN SPORTS 3 HD [AR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894997&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",CANAL+ HD [FR]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2022/09/logo-canal-plus-foot.png" group-title="ต่างประเทศ",CANAL+ HD [FR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894986&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",CANAL+ SPORT HD [FR]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2022/09/logo-canal-plus-foot.png" group-title="ต่างประเทศ",CANAL+ SPORT HD [FR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894987&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",CANAL+ FOOT HD [FR]
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2022/09/logo-canal-plus-foot.png" group-title="ต่างประเทศ",CANAL+ FOOT HD [FR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=894988&extension=ts
 
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",VIAPLAY TV HD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.advanced-television.com/wp-content/uploads/2022/05/ViaplayGroup.png" group-title="ต่างประเทศ",VIAPLAY TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1152824&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",VIAPLAY TV+ HD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.advanced-television.com/wp-content/uploads/2022/05/ViaplayGroup.png" group-title="ต่างประเทศ",VIAPLAY TV+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1157577&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",LFC HEVC FHD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://mahonpointsc.ie/wp-content/uploads/2021/09/LFC-Logo.png" group-title="ต่างประเทศ",LFC HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1312812&extension=ts
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://i.etsystatic.com/25460158/r/il/b5785d/3743847111/il_fullxfull.3743847111_q8ka.jpg" group-title="ต่างประเทศ",MUTV HEVC FHD
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2012/08/20120810manchesterutdlogo.jpg" group-title="ต่างประเทศ",MUTV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nexusconnects.org/
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=1312814&extension=ts
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110540/Screenshot-2021-09-23-at-10.34.30.png" group-title="ต่างประเทศ",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+http://stream.mcquack.net/234/index.m3u8
+
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110540/Screenshot-2021-09-23-at-10.34.30.png" group-title="ต่างประเทศ",Setanta Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110540/Screenshot-2021-09-23-at-10.34.30.png" group-title="ต่างประเทศ",Setanta Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+http://stream.mcquack.net/390/index.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110540/Screenshot-2021-09-23-at-10.34.30.png" group-title="ต่างประเทศ",Setanta Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+http://stream.mcquack.net/313/index.m3u8
+
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110540/Screenshot-2021-09-23-at-10.34.30.png" group-title="ต่างประเทศ",DiVi Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+http://stream.mcquack.net/457/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="bein1.th" tvg-name="TRUE Sport 1" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ต่างประเทศ",Bein Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein2.th" tvg-name="TRUE Sport 2" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ต่างประเทศ",Bein Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein3.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ต่างประเทศ",Bein Sport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ต่างประเทศ",Bein Sport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ต่างประเทศ",monomax-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ต่างประเทศ",monomax-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="aisplay.th" tvg-name="TRUE Sport 3" tvg-logo="https://www.matichon.co.th/wp-content/uploads/2025/12/punsong6-8.jpg" group-title="ต่างประเทศ", Goft
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/813037.ts
+
+#-----------------------------------------------------------------------------------------------------------------------------------------------------#
 
 
 
@@ -2155,101 +2219,13 @@ https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/fre
 
 
 
-#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย",TSP2 บอลไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://www.flyordie.com/image/game/catalog-icons/snooker.jpg" group-title="บอลไทย",TSP3 สนุกเกอร์
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="thai-league" tvg-name="Sport1" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย", thai-league
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
-https://edge-1.m-fixer.net:8092/stream/inw/byd-thai-league-1/master.m3u8
-
-#EXTINF:-1 tvg-id="thaileague" tvg-name=" Sport2" tvg-logo="https://static.naewna.com/uploads/news/source/508126.jpg" group-title="บอลไทย", thai-league2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
-https://edge-1.m-fixer.net:8092/stream/inw/byd-thai-league-2/master.m3u8
-
-
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115531.m3u8
-
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tv.123tv.to/
-http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130743
-
-#EXTINF:-1 tvg-id="TrueSport2" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 2 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8
-
-
-### ---------------- TRUE Sport 3
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8
-
-### ---------------- TRUE Sport 5
-#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8
-
-### ---------------- TRUE Sport 7
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="ช่องSport",TRUE Sport 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-https://hls.iptv-th.workers.dev/live/1139/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="bein1.th" tvg-name="TRUE Sport 1" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bein2.th" tvg-name="TRUE Sport 2" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bein3.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="ช่องSport",Bein Sport6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ช่องSport",monomax-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bein6.th" tvg-name="TRUE Sport 3" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ช่องSport",monomax-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="aisplay.th" tvg-name="TRUE Sport 3" tvg-logo="https://www.matichon.co.th/wp-content/uploads/2025/12/punsong6-8.jpg" group-title="ช่องSport", Goft
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://nordicone.tv/
-http://nordicone.tv:2095//live/67066804/507673455742/813037.ts
 
 
 #-----------------------------------------------------------------------------------------------------------------------------------------
@@ -3196,15 +3172,15 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u8
 #EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/live/
 https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (iptv)
+#EXTINF:-1 tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_celestial.jpg" group-title="🎬ดูหนัง", celestial (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https%3A%2F%2Fwarpdooball.net%2F/
-https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmono29plus%2Fplaylist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93754&uid=757&deviceMac=00:1A:79:04:55:C4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://nordicone.tv/
-http://nordicone.tv:2095//live/67066804/507673455742/115802.ts
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=757&deviceMac=00:1A:79:04:55:C4
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="🎬ดูหนัง",HBO+ (index)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
