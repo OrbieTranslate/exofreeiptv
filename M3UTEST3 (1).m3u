@@ -1989,14 +1989,35 @@
 
 
 
+#EXTINF:-1 tvg-logo="hhttps://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 1 4K
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=548074&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 2 4K
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=548073&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 3 4K
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=548072&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 4 4K
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=548071&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORT1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORT2 [UK]
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894978&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORT3 [UK]
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="ต่างประเทศ",TNT SPORT3 [UK]
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/08/Entete-DAZN-1.png" group-title="ต่างประเทศ",DAZN 1 HD [DE]
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894974&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2024/08/chaine-dazn2-300x155.png" group-title="ต่างประเทศ",DAZN 2 HD [DE]
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894975&extension=ts
 
 
 
