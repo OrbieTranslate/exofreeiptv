@@ -2008,8 +2008,13 @@ https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/fre
 
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 ดูได้ช่วงๆ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp2.m3u8
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115534&extension=ts
+
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 ดูได้ช่วงๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115790&extension=ts
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 ดูได้ช่วงๆ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
