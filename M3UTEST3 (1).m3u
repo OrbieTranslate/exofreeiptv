@@ -2000,45 +2000,6 @@
 
 
 
-
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1",TRUE Sport 1 ดูได้ช่วงๆ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp1.m3u8
-
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 ดูได้ช่วงๆ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115534&extension=ts
-
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 ดูได้ช่วงๆ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115790&extension=ts
-
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 ดูได้ช่วงๆ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp3.m3u8
-
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 5 ดูได้ช่วงๆ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp5.m3u8
-
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1",TRUE Sport 7 ดูได้ช่วงๆ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp7.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ต่างประเทศ",premier 1
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
 
@@ -2361,27 +2322,7 @@ http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171341
 
 
 
-# -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
-# --- MONOMAX 1 ---
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="วอเล่บอล",monomax สด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://ipc-vr5-smos.shop/maxsport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",โมโน
-http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
-
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล", Max Sport2 VNL1
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="วอเล่บอล",vbtv2 สด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/chunks.m3u8
 
 
 
