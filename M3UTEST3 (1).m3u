@@ -1981,6 +1981,15 @@
 
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="มวย",one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cbd-rrch-beach.online/
+https://cbd-rrch-beach.online/res4/index.m3u8
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="มวย",one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cbd-rrch-beach.online/
+https://cbd-rrch-beach.online/res4/tracks-v1a1/mono.m3u8
 
 
 
