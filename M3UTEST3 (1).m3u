@@ -1986,6 +1986,17 @@
 
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ต่างประเทศ",monomax AVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://s3.e-cdn.me/
+http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776159.m3u8
+
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ต่างประเทศ",monomax2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://s3.e-cdn.me/
+http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776157.m3u8
+
 
 
 
