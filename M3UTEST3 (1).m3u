@@ -2479,8 +2479,8 @@ http://nordicone.tv:2095//live/67066804/507673455742/115433.ts
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1",TRUE Sport 1 (m3) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://v3tv.live/
-http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776197&extension=ts
+#EXTVLCOPT:http-referrer=http://tv-premium-pro.com/
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776197.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2499,8 +2499,8 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776201&extension
 
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1",TRUE Sport 7 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://nordicone.tv/
-http://nordicone.tv:2095//live/67066804/507673455742/115798.ts
+#EXTVLCOPT:http-referrer=http://tv-premium-pro.com
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776195.m3u8
 
 
 
