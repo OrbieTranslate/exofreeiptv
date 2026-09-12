@@ -2000,7 +2000,7 @@ http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776157.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="hhttps://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 1 4K
+#EXTINF:-1 tvg-logo="https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 1 4K
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=548074&extension=ts
 
 #EXTINF:-1 tvg-logo="https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg" group-title="ต่างประเทศ",ESPN 2 4K
@@ -2468,15 +2468,15 @@ https://cdn2.stream.atmflix.live/atmflixlive/tpf5/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV (iptv)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/posterarchive/0b4gcf1739395060.jpg" group-title="⚽SPORT1",SPORTV MOTOGP 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
-https://hls.iptv-th.workers.dev/live/1122/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://ok64.dtwscvxv.top/
+http://ok64.dtwscvxv.top:8080/VIP011851762193690102/617e2cc724de/34405
 
-#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV2 (iptv)
+#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
-https://hls.iptv-th.workers.dev/live/1123/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://ok64.dtwscvxv.top/
+http://ok64.dtwscvxv.top:8080/VIP011851762193690102/617e2cc724de/34406
 
 #EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -3037,8 +3037,9 @@ http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275547&exten
 #EXTVLCOPT:http-referrer=http://185.80.197.65/
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275553&extension=ts
 
-
-
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://www.eternityx.com/wp-content/uploads/2024/07/blog_0726-icon.jpg",OTVเกาหลี
+#EXTVLCOPT:http-referrer=http://ok64.dtwscvxv.top/
+http://ok64.dtwscvxv.top:8080/VIP011851762193690102/617e2cc724de/34407
 #------------------------------------------------------------------------------------------------------------------------------#
 
 
@@ -3056,8 +3057,8 @@ https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="🎬ดูหนัง",HBO HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-http://tiea1.3bbddns.com:28470/4.m3u8
+#EXTVLCOPT:http-referrer=http://ok64.dtwscvxv.top/
+http://ok64.dtwscvxv.top:8080/VIP011851762193690102/617e2cc724de/34540
 
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="🎬ดูหนัง",HBO Flimaiy (skycos3)
@@ -3076,10 +3077,7 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u8
 #EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/live/
 https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_celestial.jpg" group-title="🎬ดูหนัง", celestial (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fwarpdooball.net%2F/
-http://tv.cloudcdn.me:80/live.ts?channelId=93754&uid=757&deviceMac=00:1A:79:04:55:C4
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
