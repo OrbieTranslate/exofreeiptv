@@ -1981,15 +1981,7 @@
 
 
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="มวย",one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cbd-rrch-beach.online/
-https://cbd-rrch-beach.online/res4/index.m3u8
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="มวย",one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cbd-rrch-beach.online/
-https://cbd-rrch-beach.online/res4/tracks-v1a1/mono.m3u8
 
 
 
@@ -2499,18 +2491,18 @@ http://nordicone.tv:2095//live/67066804/507673455742/115433.ts
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1",TRUE Sport 1 (m3) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tv-premium-pro.com/
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776197.m3u8
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115532.ts
 
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://v3tv.live/
-http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776192&extension=ts
+#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115537.m3u8
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 5 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2519,8 +2511,8 @@ http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115535.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1",TRUE Sport 7 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776195.m3u8
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115798.ts
 
 
 
@@ -3033,22 +3025,6 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=559158&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1054&extension=ts
 
 
-
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO MAX (stream)
-#EXTVLCOPT:http-referrer=http://185.80.197.65/
-http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275549&extension=ts
-
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO Asin (stream)
-#EXTVLCOPT:http-referrer=http://185.80.197.65/
-http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275547&extension=ts
-
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO NOW (stream)
-#EXTVLCOPT:http-referrer=http://185.80.197.65/
-http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1275553&extension=ts
-
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://www.eternityx.com/wp-content/uploads/2024/07/blog_0726-icon.jpg",OTVเกาหลี
-#EXTVLCOPT:http-referrer=http://ok64.dtwscvxv.top/
-http://ok64.dtwscvxv.top:8080/VIP011851762193690102/617e2cc724de/34407
 #------------------------------------------------------------------------------------------------------------------------------#
 
 
@@ -3058,10 +3034,7 @@ http://ok64.dtwscvxv.top:8080/VIP011851762193690102/617e2cc724de/34407
 https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="🎬ดูหนัง",HBO (iptv)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="🎬ดูหนัง",HBO HIT
