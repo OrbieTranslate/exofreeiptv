@@ -2499,6 +2499,11 @@ http://nordicone.tv:2095//live/67066804/507673455742/115532.ts
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8
 
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 (m3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115534.ts
+
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nordicone.tv/
