@@ -1965,21 +1965,48 @@
 
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://match-images.icdb.tv/eaee069eb05e6ad7d90da50c1bae9fb7.jpg" group-title="ต่างประเทศ",Astro Football FHD MY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=757&deviceMac=00:1A:79:04:55:C4
+
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://match-images.icdb.tv/eaee069eb05e6ad7d90da50c1bae9fb7.jpg" group-title="ต่างประเทศ",Astro Football FHD MY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
 
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oia4ff1659623044.png" group-title="ต่างประเทศ",HK Now Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=129128&uid=757&deviceMac=00:1A:79:04:55:C4
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sifo961659623059.png" group-title="ต่างประเทศ",HK Now Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=129129&uid=757&deviceMac=00:1A:79:04:55:C4
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qxvciw1659623071.png" group-title="ต่างประเทศ",HK Now Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=129130&uid=757&deviceMac=00:1A:79:04:55:C4
+
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="ต่างประเทศ",HK Now Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=129131&uid=757&deviceMac=00:1A:79:04:55:C4
 
 
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://cascadiamtb.com/wp-content/uploads/2014/08/20140803-170534-61534609.jpg" group-title="ต่างประเทศ",UK RedBull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=91160&uid=757&deviceMac=00:1A:79:04:55:C4
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2026/02/NEW-Featured-Image-Website-2-951x535.jpg" group-title="ต่างประเทศ",Fubo Sports Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=126149&uid=757&deviceMac=00:1A:79:04:55:C4
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="ต่างประเทศ",Llaliga1 
 http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/2466
@@ -2435,22 +2462,27 @@ http://49.0.64.96:8007/TENNIS
 
 
 
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1", โหลดช้า TRUE Sport 1 (tv)
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="⚽SPORT1", โหลดช้า TRUE Sport 1 (tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP1.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",โหลดช้า TRUE Sport 2 (tv)
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="⚽SPORT1",โหลดช้า TRUE Sport 2 (tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP2.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",โหลดช้าTRUE Sport 3 (tv) 
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="⚽SPORT1",โหลดช้าTRUE Sport 3 (tv) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/23075.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1", โหลดช้า TRUE Sport 7 (tv)
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-5-1074.png" group-title="⚽SPORT1", โหลดช้า TRUE Sport 5 (tv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/23076.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-7-1076.png" group-title="⚽SPORT1", โหลดช้า TRUE Sport 7 (tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/40.m3u8
@@ -3012,6 +3044,15 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/983.ts
 
 
 #------------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://media0106.elcinema.com/tvguide/1322_1.png",beIN Movies Premiere1 (TR)
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=129879&uid=757&deviceMac=00:1A:79:04:55:C4
+
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://media0106.elcinema.com/tvguide/1362_1.png",beIN Movies Premiere2 (TR)
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=129880&uid=757&deviceMac=00:1A:79:04:55:C4
 
 
 #EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO TH (dns โหลดช้า)   
@@ -3085,24 +3126,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=757&deviceMac=00:1A:79:04:
 #EXTVLCOPT:http-referrer=http://181.224.255.210/
 http://181.224.255.210:8001/play/a0qz/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/1*dJPHZzMKAIWSLVEsDTtGIg.png" group-title="🎬ดูหนัง",K-Movies
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="🎬ดูหนัง",HBO Xtreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://jmp2.uk/stvp-KRBC32000191N
+#EXTVLCOPT:http-referrer=http://181.224.255.210/
+http://181.224.255.210:8001/play/a0oo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/1*dJPHZzMKAIWSLVEsDTtGIg.png" group-title="🎬ดูหนัง",Series K Legacy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://jmp2.uk/stvp-GB200093HQ
 
-#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/1*dJPHZzMKAIWSLVEsDTtGIg.png" group-title="🎬ดูหนัง",Series K Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://jmp2.uk/stvp-ES200040YF
-
-#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/1*dJPHZzMKAIWSLVEsDTtGIg.png" group-title="🎬ดูหนัง",K-Content
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://jmp2.uk/stvp-GB17000066A
 
 
 
@@ -3301,10 +3330,7 @@ https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://beta.m-fixer.net/uploads/tv_image/khongdee.jpg" group-title="🐘สารคดี",thainess
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
-https://edge-1.m-fixer.net:8092/stream/ais/thainess/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/17-171695_discovery-channel-hd-logo-png-transparent-png.png" group-title="🐘สารคดี",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
