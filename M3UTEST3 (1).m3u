@@ -3257,7 +3257,9 @@ https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="🐘สารคดี",สำรวจโลก
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/116.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="🐘สารคดี",สำรวจโลก2 (iptv)
-https://hls.iptv-th.workers.dev/live/2648/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-2.m-fixer.net/
+https://edge-2.m-fixer.net:8092/stream/ais/samrujlok/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="🐘สารคดี",SCIence
 http://49.0.64.96:8007/WSCI
@@ -3273,6 +3275,27 @@ https://hls.iptv-th.workers.dev/live/4023/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://wowtale.net/wp-content/uploads/2021/04/MYSC-Logo-1024x649.png" group-title="🐘สารคดี",My Sci (iptv)
 https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wowtale.net/wp-content/uploads/2021/04/MYSC-Logo-1024x649.png" group-title="🐘สารคดี",MY SCI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://beta.m-fixer.net/uploads/tv_image/khongdee.jpg" group-title="🐘สารคดี",thainess
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/thainess/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/17-171695_discovery-channel-hd-logo-png-transparent-png.png" group-title="🐘สารคดี",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-2.m-fixer.net:8092/stream/ais/discovery/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://metadata-static.plex.tv/b/gracenote/ba49f90b2b0183c7f8a51be4ad8932ef.jpg" group-title="🐘สารคดี",Animalshow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
+
 
 
 #-----------------------------------------------------------------------------------------------------------------------------------#
