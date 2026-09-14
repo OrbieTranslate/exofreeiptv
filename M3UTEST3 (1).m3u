@@ -1981,10 +1981,14 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="ต่างประเทศ",Llaliga1 
+http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/2466
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="ต่างประเทศ",Llaliga2 
+http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/983
 
-
-
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="ต่างประเทศ",Llaliga4 
+http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/967
 
 
 #EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="ต่างประเทศ",monomax AVC
@@ -3039,7 +3043,10 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=1054&extensio
 https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO TH (ดูได้กลางวัน)   
+#EXTVLCOPT:http-referrer=https://github.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/hbo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="🎬ดูหนัง",HBO HIT
