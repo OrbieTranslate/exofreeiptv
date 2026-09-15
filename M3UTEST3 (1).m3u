@@ -3058,6 +3058,13 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/983.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 
+
+#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://f.ptcdn.info/231/076/000/r6ltgy21if01VRDPaI3cn-o.jpg",true film TH  
+#EXTVLCOPT:http-referrer=https://github.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/filmhd2.m3u8
+
+
 #EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO  EXYU (stream)
 #EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
