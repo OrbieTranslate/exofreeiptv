@@ -2473,10 +2473,13 @@ http://49.0.64.96:8007/TENNIS
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP1.m3u8
 
+
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="⚽SPORT1",โหลดช้า TRUE Sport 2 (tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP2.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="⚽SPORT1",โหลดช้าTRUE Sport 3 (tv) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2548,10 +2551,21 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8
 #EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/inw/truesport2/master.m3u8
 
+
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="⚽SPORT1",TRUE Sport 2 (tv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp2.m3u8
+
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nordicone.tv/
 http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp3.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 5 (m3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2563,6 +2577,10 @@ http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115535.m3u8
 #EXTVLCOPT:http-referrer=http://nordicone.tv/
 http://nordicone.tv:2095//live/67066804/507673455742/115798.ts
 
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1",TRUE Sport 7 (m3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/OrbieTranslate/exofreeiptv/refs/heads/main/free/tsp7.m3u8
 
 
 #--------------------------------------------------------------------------------------------------#
