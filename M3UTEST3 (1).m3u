@@ -2162,7 +2162,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126149&uid=757&deviceMac=00:1A:79:04:
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------#
 
-
+#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",Live บอลไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ttbd-3tv.com/
+https://ttbd-3tv.com/ob4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://image.springnews.co.th/uploads/images/md/2021/11/eZ1R4HX0xzthV9f4nZ9f.jpg" group-title="บอลไทย",บอลไทย
